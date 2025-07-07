@@ -20,7 +20,8 @@ A Full-Stack Developer by day ☼ and a Movie geek by night ☾
 #### Full-Stack Developer at **Wallia Ventures**
 
 - ⚙️ I use daily: Node, JS, React, Postman, AWS, Git
-- 💡 Currently learning: Node.js
+- 💡 Learning: Node.js
+- 💼 Currently working with private repositories on Azure DevOps
 - 💪 Improving my skills day by day
 - 🌐 Passionate about building scalable web applications
 - 🌱 Always eager to learn new technologies and best practices
