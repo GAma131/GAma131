@@ -14,11 +14,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Hi there 🧙‍♂️
+## Hi there 🧙‍♂️
 
 A Full-Stack Developer by day ☼ and a Movie geek by night ☾
-
-Full-Stack Developer at **Wallia Ventures**;
+#### Full-Stack Developer at **Wallia Ventures**
 
 - ⚙️ I use daily: Node, JS, React, Postman, AWS, Git
 - 💡 Currently learning: Node.js
