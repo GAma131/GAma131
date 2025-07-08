@@ -18,14 +18,20 @@
 
 ## Hi there 🧙‍♂️
 
+<img src = 'https://media.tenor.com/EdiGYFaZg7sAAAAi/jaded-disappointed.gif' alt = 'Jaded Disappointed Sticker' align='right'/>
+
 A Full-Stack Developer by day ☼ and a Movie geek by night ☾
 #### Full-Stack Developer at **Wallia Ventures**
 
 - ⚙️ I use daily: Node, JS, React, Postman, AWS, Git
 - 💡 Learning: Node.js
-- 💼 Currently working with private repositories on Azure DevOps
+- 💼 Currently working with serverless APIs
 - 💪 Improving my skills day by day
 - 🌐 Passionate about building scalable web applications
 - 🌱 Always eager to learn new technologies and best practices
 
 🔗 Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/gama131) or [Email me](mailto:garcia.gamaliel.soft@gmail.com)
+
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAma131&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
